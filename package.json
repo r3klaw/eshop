@@ -12,7 +12,7 @@
     "total.js": "^3.1.0"
   },
   "scripts": {
-    "start": "node debug.js",
+    "start": "node release.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
