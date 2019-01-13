@@ -18,6 +18,7 @@
     "eshop",
     "ecommerce"
   ],
+  "start": "npm start",
   "author": "David Rashid",
   "license": "MIT"
 }
