@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15f234fe-5b22-4cc4-9645-0fd212ef0ce7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/release.js" beforeDir="false" afterPath="$PROJECT_DIR$/release.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -28,8 +27,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/release.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="130">
-              <caret line="18" column="28" lean-forward="true" selection-start-line="17" selection-start-column="3" selection-end-line="18" selection-end-column="28" />
+            <state relative-caret-position="225">
+              <caret line="21" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="6" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -170,7 +169,7 @@
       <workItem from="1547375809648" duration="3760000" />
       <workItem from="1547473697181" duration="190000" />
       <workItem from="1547473925243" duration="268000" />
-      <workItem from="1547719606975" duration="1159000" />
+      <workItem from="1547719606975" duration="1246000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1547380232104</created>
@@ -183,7 +182,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10957000" />
+    <option name="totallyTimeSpent" value="11044000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1366" height="745" extended-state="6" />
@@ -326,8 +325,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/release.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="18" column="28" lean-forward="true" selection-start-line="17" selection-start-column="3" selection-end-line="18" selection-end-column="28" />
+        <state relative-caret-position="225">
+          <caret line="21" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="6" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
