@@ -27,8 +27,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/release.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="21" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="6" />
+            <state relative-caret-position="195">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -169,7 +169,7 @@
       <workItem from="1547375809648" duration="3760000" />
       <workItem from="1547473697181" duration="190000" />
       <workItem from="1547473925243" duration="268000" />
-      <workItem from="1547719606975" duration="1246000" />
+      <workItem from="1547719606975" duration="1527000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1547380232104</created>
@@ -182,11 +182,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11044000" />
+    <option name="totallyTimeSpent" value="11325000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1366" height="745" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24906786" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -325,8 +324,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/release.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="21" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="6" />
+        <state relative-caret-position="195">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
